@@ -1,5 +1,7 @@
 class Anagram{
-    main
+ public static void main(String[] args) {
+    System.out.println("dvdv");
+ }
+ 
 }
-  git config --global user.email "kunalvvs@gmail.com"
-  git config --global user.name "kunalvvs"
+  
